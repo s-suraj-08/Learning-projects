@@ -1,6 +1,8 @@
- This will create a bullet point list in your markdown
- Markup:
-  *b1
-  *b2
-    *b21
-as
+<body>
+ <p>Hello<\p>
+ <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+ </ul>
+<\body> 
