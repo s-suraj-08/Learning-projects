@@ -15,5 +15,6 @@
   <li>Csv file location for output</li>
  </ul>
  <p>Output is a csv file which contains the file locations matching the filename or the pattern <br>
+  Sample command python file_search.py -i "E:\..\Automate_file_search" -o "E:..\Automate_file_search\op\sample_op.csv" -p "*.txt" <br>
  (Note: The program was written on a windows machine, might not be as compatible in other OS)</p>
 </body> 
