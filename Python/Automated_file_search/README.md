@@ -6,18 +6,18 @@
         <li>To learn, Basic usage of Python's csv,os, argparse modules
         <li>Get a simple grip of coding in python
         <li>To be able to perform simple automation tasks such as file search using Python
-        <ul \>
-    <p \>
+        <\ul>
+    <\p>
     <p>
     Python program which takes folder name(or search string in the form regular expression) and outputs a csv file which contains the File location/s.<br>
     The input is to be passed as arguments while running the program.<br>
     Input arguments:
             <ul>
-                <li>*Input folder search location
+                <li>Input folder search location
                 <li>File name/pattern to be searched
                 <li>Csv file location for output
             <ul \>
         Output is a csv file which contains the file locations matching the filename or the pattern.
         (Note: The program was written on a windows machine, might not be as compatible in other OS)
-    <p \>
-<body \>
+    <\p>
+<\body>
