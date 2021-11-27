@@ -1,7 +1,7 @@
 <body>
   <p>Hello World</p>
   <ul>
-    <li>item1<\li>
-    <li>item2<\li>
+    <li>item1
+    <li>item2
   <\ul>
 </body>
