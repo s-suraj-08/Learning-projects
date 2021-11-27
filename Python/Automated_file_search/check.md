@@ -1,7 +1,5 @@
-<body>
-  <p>Hello World</p>
-  <ul>
-    <li>item1
-    <li>item2
-  <p>Hello World</p>
-</body>
+ This will create a bullet point list in your markdown
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
