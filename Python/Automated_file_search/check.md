@@ -6,7 +6,7 @@
   <li>Get a simple grip of coding in python</li>
   <li>To be able to perform simple automation tasks such as file search using Python</li>
  </ul>
- <p>Python program which takes folder name(or search string in the form regular expression) and outputs a csv file which contains the File location/s.<br>
+ <p>The program takes folder name(or search string in the form regular expression) and outputs a csv file which contains the File location/s.<br>
  The input is to be passed as arguments while running the program.<br>
  Input arguments:<p \>
  <ul>
